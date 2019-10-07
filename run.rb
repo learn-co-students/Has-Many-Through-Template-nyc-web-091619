@@ -1,3 +1,3 @@
-require_relative "lib/Model1.rb"
-require_relative "lib/Model2.rb"
-require_relative "lib/Model3.rb"
+require_relative "lib/Appointment.rb"
+require_relative "lib/Doctor.rb"
+require_relative "lib/Patient.rb"
